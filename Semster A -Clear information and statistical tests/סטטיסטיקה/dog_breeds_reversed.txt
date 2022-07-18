@@ -1,0 +1,864 @@
+------------------Apollonia-------------------
+there was a diff in total entries when there was a heatwave 0.015948663130799325
+there was a diff in total israelis when there was a heatwave 0.015024243864946274
+there was not diff in total tourists when there was a heatwave 0.5691181679137604
+--------------------------------------------
+------------------Arbel-------------------
+there was not a diff in total entries when there was a heatwave 0.4893260984355411
+there was not diff in total israelis when there was a heatwave 0.5716678075898223
+there was not diff in total tourists when there was a heatwave 0.36657545763083726
+--------------------------------------------
+------------------Avdat-------------------
+there was a diff in total entries when there was a heatwave 0.0036237563247548763
+there was not diff in total israelis when there was a heatwave 0.07284382322660196
+there was a diff in total tourists when there was a heatwave 0.022189466913202525
+--------------------------------------------
+------------------Ayun Stream-------------------
+there was a diff in total entries when there was a heatwave 0.0012375766829604141
+there was a diff in total israelis when there was a heatwave 0.001401002025666451
+there was not diff in total tourists when there was a heatwave 0.6064253532386612
+--------------------------------------------
+------------------Bet Alpha-------------------
+there was not a diff in total entries when there was a heatwave 0.18735233846510302
+there was not diff in total israelis when there was a heatwave 0.4964110474351937
+there was not diff in total tourists when there was a heatwave 0.051678541902175114
+--------------------------------------------
+------------------Bet Guvrin-------------------
+there was a diff in total entries when there was a heatwave 0.004609759933083309
+there was a diff in total israelis when there was a heatwave 0.009975128867867358
+there was a diff in total tourists when there was a heatwave 0.012012545802326916
+--------------------------------------------
+------------------Bet Shean-------------------
+there was a diff in total entries when there was a heatwave 0.01813379891656838
+there was a diff in total israelis when there was a heatwave 0.041718130284906355
+there was not diff in total tourists when there was a heatwave 0.10264862611403253
+--------------------------------------------
+------------------Bet Shearim-------------------
+there was not a diff in total entries when there was a heatwave 0.0960591609978349
+there was not diff in total israelis when there was a heatwave 0.05381796502480891
+there was not diff in total tourists when there was a heatwave 0.8813192015300397
+--------------------------------------------
+------------------Caesarea-------------------
+there was not a diff in total entries when there was a heatwave 0.18565774712785593
+there was not diff in total israelis when there was a heatwave 0.2557697761141312
+there was not diff in total tourists when there was a heatwave 0.06491830208232618
+--------------------------------------------
+------------------Eilat Coral Beach-------------------
+there was not a diff in total entries when there was a heatwave 0.9588147112242064
+there was not diff in total israelis when there was a heatwave 0.9802145292181295
+there was not diff in total tourists when there was a heatwave 0.5959490604335235
+--------------------------------------------
+------------------En Afek-------------------
+there was a diff in total entries when there was a heatwave 0.008408814043064143
+there was a diff in total israelis when there was a heatwave 0.008883111669880154
+there was not diff in total tourists when there was a heatwave 0.3468453770385519
+--------------------------------------------
+------------------En Avdat-------------------
+there was a diff in total entries when there was a heatwave 0.04401128394254726
+there was not diff in total israelis when there was a heatwave 0.11799297529035718
+there was not diff in total tourists when there was a heatwave 0.14468441643618984
+--------------------------------------------
+------------------En Gedi-------------------
+there was not a diff in total entries when there was a heatwave 0.20099926905803484
+there was not diff in total israelis when there was a heatwave 0.2908075533388449
+there was not diff in total tourists when there was a heatwave 0.2899146437183377
+--------------------------------------------
+------------------En Prat-------------------
+there was not a diff in total entries when there was a heatwave 0.9650680285907672
+there was not diff in total israelis when there was a heatwave 0.957868826115438
+there was not diff in total tourists when there was a heatwave 0.9057748421239965
+--------------------------------------------
+------------------Enot Tsukim-------------------
+there was not a diff in total entries when there was a heatwave 0.34198328738829936
+there was not diff in total israelis when there was a heatwave 0.35897700282964273
+there was not diff in total tourists when there was a heatwave 0.35164432981809624
+--------------------------------------------
+------------------Gamla-------------------
+there was a diff in total entries when there was a heatwave 3.681393239497562e-06
+there was a diff in total israelis when there was a heatwave 3.801738939036993e-05
+there was a diff in total tourists when there was a heatwave 0.00608447715499153
+--------------------------------------------
+------------------Good Samaritan Museum-------------------
+there was a diff in total entries when there was a heatwave 0.009620988113696124
+there was a diff in total israelis when there was a heatwave 0.007011147504628936
+there was not diff in total tourists when there was a heatwave 0.15940292611140894
+--------------------------------------------
+------------------Hai Ramon-------------------
+there was a diff in total entries when there was a heatwave 0.03543891091639323
+there was not diff in total israelis when there was a heatwave 0.08891421223078178
+there was a diff in total tourists when there was a heatwave 0.02718142922598258
+--------------------------------------------
+------------------Hamat Tiberias-------------------
+there was a diff in total entries when there was a heatwave 0.005856734143894017
+there was a diff in total israelis when there was a heatwave 0.005478829826255371
+there was not diff in total tourists when there was a heatwave 0.3087433071538339
+--------------------------------------------
+------------------Hay-Bar Yotvata-------------------
+there was not a diff in total entries when there was a heatwave 0.10789352998873919
+there was not diff in total israelis when there was a heatwave 0.12112242839267584
+there was not diff in total tourists when there was a heatwave 0.5817867584290582
+--------------------------------------------
+------------------Hermon Stream (Banias)-------------------
+there was not a diff in total entries when there was a heatwave 0.49536737781436735
+there was not diff in total israelis when there was a heatwave 0.18834696600151385
+there was not diff in total tourists when there was a heatwave 0.9983681872180059
+--------------------------------------------
+------------------Herodium Park-------------------
+there was not a diff in total entries when there was a heatwave 0.08529538830779276
+there was a diff in total israelis when there was a heatwave 0.023527130535517308
+there was not diff in total tourists when there was a heatwave 0.41196535111872756
+--------------------------------------------
+------------------Hula-------------------
+there was a diff in total entries when there was a heatwave 5.553549695764429e-05
+there was a diff in total israelis when there was a heatwave 0.00017269174856172388
+there was a diff in total tourists when there was a heatwave 0.04881279591757789
+--------------------------------------------
+------------------Khan Be’erot-------------------
+there was not a diff in total entries when there was a heatwave 0.17412937581633614
+there was not diff in total israelis when there was a heatwave 0.17412937581633614
+--------------------------------------------
+------------------Kokhav HaYarden-------------------
+there was a diff in total entries when there was a heatwave 0.015599568441676254
+there was a diff in total israelis when there was a heatwave 0.005530328273859418
+there was not diff in total tourists when there was a heatwave 0.3556109835730211
+--------------------------------------------
+------------------Korazim-------------------
+there was not a diff in total entries when there was a heatwave 0.38967660997594467
+there was a diff in total israelis when there was a heatwave 5.912655906543793e-05
+there was not diff in total tourists when there was a heatwave 0.9900951763658694
+--------------------------------------------
+------------------Kursi-------------------
+there was not a diff in total entries when there was a heatwave 0.5155468896196036
+there was not diff in total israelis when there was a heatwave 0.05233145879462643
+there was not diff in total tourists when there was a heatwave 0.7319830676805065
+--------------------------------------------
+------------------Maayan Harod-------------------
+there was not a diff in total entries when there was a heatwave 0.9512265663981453
+there was not diff in total israelis when there was a heatwave 0.9705803296989776
+there was a diff in total tourists when there was a heatwave 0.03561371521666283
+--------------------------------------------
+------------------Makhtesh Ramon-------------------
+there was not a diff in total entries when there was a heatwave 0.18445144763411192
+there was not diff in total israelis when there was a heatwave 0.31544548103583214
+there was not diff in total tourists when there was a heatwave 0.10306294275446659
+--------------------------------------------
+------------------Mamshit-------------------
+there was not a diff in total entries when there was a heatwave 0.20148386256568568
+there was not diff in total israelis when there was a heatwave 0.05764495341225495
+there was not diff in total tourists when there was a heatwave 0.9875859287293373
+--------------------------------------------
+------------------Me‘arot Stream-------------------
+there was not a diff in total entries when there was a heatwave 0.11255096172536044
+there was not diff in total israelis when there was a heatwave 0.12175481505460023
+there was not diff in total tourists when there was a heatwave 0.20096260489083795
+--------------------------------------------
+------------------Qumran Park-------------------
+there was not a diff in total entries when there was a heatwave 0.26463811098613604
+there was not diff in total israelis when there was a heatwave 0.5375683267497764
+there was not diff in total tourists when there was a heatwave 0.37626159739475334
+--------------------------------------------
+------------------Stalactite Cave-------------------
+there was not a diff in total entries when there was a heatwave 0.09621540069779017
+there was not diff in total israelis when there was a heatwave 0.10556829264556283
+there was not diff in total tourists when there was a heatwave 0.2621045134342944
+--------------------------------------------
+------------------Tel Arad-------------------
+there was not a diff in total entries when there was a heatwave 0.07439140755149194
+there was a diff in total israelis when there was a heatwave 0.0449660506226517
+there was not diff in total tourists when there was a heatwave 0.27036460766708814
+--------------------------------------------
+------------------Tel Beer Sheva-------------------
+there was a diff in total entries when there was a heatwave 0.0004758097051971373
+there was a diff in total israelis when there was a heatwave 3.80141170313648e-05
+there was not diff in total tourists when there was a heatwave 0.24712447185862907
+--------------------------------------------
+------------------Tel Dan-------------------
+there was not a diff in total entries when there was a heatwave 0.6492093888270866
+there was not diff in total israelis when there was a heatwave 0.6734581342452258
+there was not diff in total tourists when there was a heatwave 0.9581511772837029
+--------------------------------------------
+------------------Tel Hazor-------------------
+there was not a diff in total entries when there was a heatwave 0.9306494023277084
+there was not diff in total israelis when there was a heatwave 0.33713873322282895
+there was not diff in total tourists when there was a heatwave 0.9268259327423233
+--------------------------------------------
+------------------Tel Megiddo-------------------
+there was not a diff in total entries when there was a heatwave 0.337177338969496
+there was a diff in total israelis when there was a heatwave 0.025587288072592893
+there was not diff in total tourists when there was a heatwave 0.6561251918989528
+--------------------------------------------
+------------------The Masada-------------------
+there was a diff in total entries when there was a heatwave 0.0018997369472792854
+there was a diff in total israelis when there was a heatwave 0.00435129494924937
+there was a diff in total tourists when there was a heatwave 0.0035591414834120765
+--------------------------------------------
+------------------Tzipori-------------------
+there was not a diff in total entries when there was a heatwave 0.06322164403865445
+there was not diff in total israelis when there was a heatwave 0.08552711903488236
+there was not diff in total tourists when there was a heatwave 0.16957006853024403
+--------------------------------------------
+------------------Yehiam-------------------
+there was not a diff in total entries when there was a heatwave 0.22372900709172955
+there was not diff in total israelis when there was a heatwave 0.2385534839400184
+there was not diff in total tourists when there was a heatwave 0.3919319460238646
+--------------------------------------------
+------------------Amud Stream-------------------
+there was not a diff in total entries when there was a heatwave 0.7761258431326494
+there was not diff in total israelis when there was a heatwave 0.7673484168355169
+there was not diff in total tourists when there was a heatwave 0.3445169598580141
+--------------------------------------------
+------------------Ashkelon National Park-------------------
+there was not a diff in total entries when there was a heatwave 0.61956787109375
+there was not diff in total israelis when there was a heatwave 0.61956787109375
+there was not diff in total tourists when there was a heatwave 0.7035099509912867
+--------------------------------------------
+------------------Baram-------------------
+there was not a diff in total entries when there was a heatwave 0.23112282310146226
+there was not diff in total israelis when there was a heatwave 0.3406847558171308
+there was not diff in total tourists when there was a heatwave 0.550750836590118
+--------------------------------------------
+------------------Dor HaBonim Beach-------------------
+there was not a diff in total entries when there was a heatwave 0.9622598562488378
+there was not diff in total israelis when there was a heatwave 0.9601430490339085
+there was not diff in total tourists when there was a heatwave 0.7774792338852996
+--------------------------------------------
+------------------HaBsor(Eshkol Park)-------------------
+there was not a diff in total entries when there was a heatwave 0.14544219891811744
+there was not diff in total israelis when there was a heatwave 0.14720446865741937
+there was not diff in total tourists when there was a heatwave 0.41582042124951646
+--------------------------------------------
+------------------Meshushim Stream-------------------
+there was not a diff in total entries when there was a heatwave 0.5064683515703259
+there was not diff in total israelis when there was a heatwave 0.5733247914018602
+there was not diff in total tourists when there was a heatwave 0.2768687411562525
+--------------------------------------------
+------------------Palmahim Beach-------------------
+there was not a diff in total entries when there was a heatwave 0.7854825313062231
+there was not diff in total israelis when there was a heatwave 0.7854825313062231
+--------------------------------------------
+------------------Snir Stream-------------------
+there was not a diff in total entries when there was a heatwave 0.9357555649637479
+there was not diff in total israelis when there was a heatwave 0.9415638980592417
+there was not diff in total tourists when there was a heatwave 0.6170414102733974
+--------------------------------------------
+------------------Taninim Stream-------------------
+there was not a diff in total entries when there was a heatwave 0.4869854858039296
+there was not diff in total israelis when there was a heatwave 0.4869854858039296
+there was not diff in total tourists when there was a heatwave 0.8710898258495756
+--------------------------------------------
+------------------Castel National site-------------------
+there was a diff in total entries when there was a heatwave 0.04149724094520853
+there was a diff in total israelis when there was a heatwave 0.03270702783715215
+there was not diff in total tourists when there was a heatwave 0.8256516564325596
+--------------------------------------------
+------------------En Hemed-------------------
+there was not a diff in total entries when there was a heatwave 0.1798621084927322
+there was not diff in total israelis when there was a heatwave 0.2228985348767168
+there was not diff in total tourists when there was a heatwave 0.22393102810337973
+--------------------------------------------
+------------------Yehudiya-------------------
+there was not a diff in total entries when there was a heatwave 0.4107554213041227
+there was not diff in total israelis when there was a heatwave 0.5015789858020834
+there was not diff in total tourists when there was a heatwave 0.3434914456170859
+--------------------------------------------
+------------------The Majrase – Betiha-------------------
+there was not a diff in total entries when there was a heatwave 0.9998957810896127
+there was not diff in total israelis when there was a heatwave 0.9998648754886226
+there was not diff in total tourists when there was a heatwave 0.8948600180466915
+--------------------------------------------
+------------------Horshat Tal-------------------
+there was not a diff in total entries when there was a heatwave 0.876429049954022
+there was not diff in total israelis when there was a heatwave 0.87228286250758
+there was not diff in total tourists when there was a heatwave 0.9138506846264531
+--------------------------------------------
+------------------Nimrod Fortress-------------------
+there was a diff in total entries when there was a heatwave 0.00944638528333622
+there was a diff in total israelis when there was a heatwave 0.021976138460830845
+there was not diff in total tourists when there was a heatwave 0.11489401966065993
+--------------------------------------------
+------------------Akhziv-------------------
+there was not a diff in total entries when there was a heatwave 0.2273214429453554
+there was not diff in total israelis when there was a heatwave 0.23054065582574457
+there was not diff in total tourists when there was a heatwave 0.6191905104440893
+--------------------------------------------
+------------------Gan HaShlosha-------------------
+there was not a diff in total entries when there was a heatwave 0.9997165235870281
+there was not diff in total israelis when there was a heatwave 0.9998069129556947
+there was not diff in total tourists when there was a heatwave 0.3295562694188203
+--------------------------------------------
+------------------Apollonia-------------------
+there was a diff in total entries when there was a heatwave 0.015948663130799325
+there was a diff in total israelis when there was a heatwave 0.015024243864946274
+there was not diff in total tourists when there was a heatwave 0.5691181679137604
+--------------------------------------------
+------------------Arbel-------------------
+there was not a diff in total entries when there was a heatwave 0.4893260984355411
+there was not diff in total israelis when there was a heatwave 0.5716678075898223
+there was not diff in total tourists when there was a heatwave 0.36657545763083726
+--------------------------------------------
+------------------Avdat-------------------
+there was a diff in total entries when there was a heatwave 0.0036237563247548763
+there was not diff in total israelis when there was a heatwave 0.07284382322660196
+there was a diff in total tourists when there was a heatwave 0.022189466913202525
+--------------------------------------------
+------------------Ayun Stream-------------------
+there was a diff in total entries when there was a heatwave 0.0012375766829604141
+there was a diff in total israelis when there was a heatwave 0.001401002025666451
+there was not diff in total tourists when there was a heatwave 0.6064253532386612
+--------------------------------------------
+------------------Bet Alpha-------------------
+there was not a diff in total entries when there was a heatwave 0.18735233846510302
+there was not diff in total israelis when there was a heatwave 0.4964110474351937
+there was not diff in total tourists when there was a heatwave 0.051678541902175114
+--------------------------------------------
+------------------Bet Guvrin-------------------
+there was a diff in total entries when there was a heatwave 0.004609759933083309
+there was a diff in total israelis when there was a heatwave 0.009975128867867358
+there was a diff in total tourists when there was a heatwave 0.012012545802326916
+--------------------------------------------
+------------------Bet Shean-------------------
+there was a diff in total entries when there was a heatwave 0.01813379891656838
+there was a diff in total israelis when there was a heatwave 0.041718130284906355
+there was not diff in total tourists when there was a heatwave 0.10264862611403253
+--------------------------------------------
+------------------Bet Shearim-------------------
+there was not a diff in total entries when there was a heatwave 0.0960591609978349
+there was not diff in total israelis when there was a heatwave 0.05381796502480891
+there was not diff in total tourists when there was a heatwave 0.8813192015300397
+--------------------------------------------
+------------------Caesarea-------------------
+there was not a diff in total entries when there was a heatwave 0.18565774712785593
+there was not diff in total israelis when there was a heatwave 0.2557697761141312
+there was not diff in total tourists when there was a heatwave 0.06491830208232618
+--------------------------------------------
+------------------Eilat Coral Beach-------------------
+there was not a diff in total entries when there was a heatwave 0.9588147112242064
+there was not diff in total israelis when there was a heatwave 0.9802145292181295
+there was not diff in total tourists when there was a heatwave 0.5959490604335235
+--------------------------------------------
+------------------En Afek-------------------
+there was a diff in total entries when there was a heatwave 0.008408814043064143
+there was a diff in total israelis when there was a heatwave 0.008883111669880154
+there was not diff in total tourists when there was a heatwave 0.3468453770385519
+--------------------------------------------
+------------------En Avdat-------------------
+there was a diff in total entries when there was a heatwave 0.04401128394254726
+there was not diff in total israelis when there was a heatwave 0.11799297529035718
+there was not diff in total tourists when there was a heatwave 0.14468441643618984
+--------------------------------------------
+------------------En Gedi-------------------
+there was not a diff in total entries when there was a heatwave 0.20099926905803484
+there was not diff in total israelis when there was a heatwave 0.2908075533388449
+there was not diff in total tourists when there was a heatwave 0.2899146437183377
+--------------------------------------------
+------------------En Prat-------------------
+there was not a diff in total entries when there was a heatwave 0.9650680285907672
+there was not diff in total israelis when there was a heatwave 0.957868826115438
+there was not diff in total tourists when there was a heatwave 0.9057748421239965
+--------------------------------------------
+------------------Enot Tsukim-------------------
+there was not a diff in total entries when there was a heatwave 0.34198328738829936
+there was not diff in total israelis when there was a heatwave 0.35897700282964273
+there was not diff in total tourists when there was a heatwave 0.35164432981809624
+--------------------------------------------
+------------------Gamla-------------------
+there was a diff in total entries when there was a heatwave 3.681393239497562e-06
+there was a diff in total israelis when there was a heatwave 3.801738939036993e-05
+there was a diff in total tourists when there was a heatwave 0.00608447715499153
+--------------------------------------------
+------------------Good Samaritan Museum-------------------
+there was a diff in total entries when there was a heatwave 0.009620988113696124
+there was a diff in total israelis when there was a heatwave 0.007011147504628936
+there was not diff in total tourists when there was a heatwave 0.15940292611140894
+--------------------------------------------
+------------------Hai Ramon-------------------
+there was a diff in total entries when there was a heatwave 0.03543891091639323
+there was not diff in total israelis when there was a heatwave 0.08891421223078178
+there was a diff in total tourists when there was a heatwave 0.02718142922598258
+--------------------------------------------
+------------------Hamat Tiberias-------------------
+there was a diff in total entries when there was a heatwave 0.005856734143894017
+there was a diff in total israelis when there was a heatwave 0.005478829826255371
+there was not diff in total tourists when there was a heatwave 0.3087433071538339
+--------------------------------------------
+------------------Hay-Bar Yotvata-------------------
+there was not a diff in total entries when there was a heatwave 0.10789352998873919
+there was not diff in total israelis when there was a heatwave 0.12112242839267584
+there was not diff in total tourists when there was a heatwave 0.5817867584290582
+--------------------------------------------
+------------------Hermon Stream (Banias)-------------------
+there was not a diff in total entries when there was a heatwave 0.49536737781436735
+there was not diff in total israelis when there was a heatwave 0.18834696600151385
+there was not diff in total tourists when there was a heatwave 0.9983681872180059
+--------------------------------------------
+------------------Herodium Park-------------------
+there was not a diff in total entries when there was a heatwave 0.08529538830779276
+there was a diff in total israelis when there was a heatwave 0.023527130535517308
+there was not diff in total tourists when there was a heatwave 0.41196535111872756
+--------------------------------------------
+------------------Hula-------------------
+there was a diff in total entries when there was a heatwave 5.553549695764429e-05
+there was a diff in total israelis when there was a heatwave 0.00017269174856172388
+there was a diff in total tourists when there was a heatwave 0.04881279591757789
+--------------------------------------------
+------------------Khan Be’erot-------------------
+there was not a diff in total entries when there was a heatwave 0.17412937581633614
+there was not diff in total israelis when there was a heatwave 0.17412937581633614
+--------------------------------------------
+------------------Kokhav HaYarden-------------------
+there was a diff in total entries when there was a heatwave 0.015599568441676254
+there was a diff in total israelis when there was a heatwave 0.005530328273859418
+there was not diff in total tourists when there was a heatwave 0.3556109835730211
+--------------------------------------------
+------------------Korazim-------------------
+there was not a diff in total entries when there was a heatwave 0.38967660997594467
+there was a diff in total israelis when there was a heatwave 5.912655906543793e-05
+there was not diff in total tourists when there was a heatwave 0.9900951763658694
+--------------------------------------------
+------------------Kursi-------------------
+there was not a diff in total entries when there was a heatwave 0.5155468896196036
+there was not diff in total israelis when there was a heatwave 0.05233145879462643
+there was not diff in total tourists when there was a heatwave 0.7319830676805065
+--------------------------------------------
+------------------Maayan Harod-------------------
+there was not a diff in total entries when there was a heatwave 0.9512265663981453
+there was not diff in total israelis when there was a heatwave 0.9705803296989776
+there was a diff in total tourists when there was a heatwave 0.03561371521666283
+--------------------------------------------
+------------------Makhtesh Ramon-------------------
+there was not a diff in total entries when there was a heatwave 0.18445144763411192
+there was not diff in total israelis when there was a heatwave 0.31544548103583214
+there was not diff in total tourists when there was a heatwave 0.10306294275446659
+--------------------------------------------
+------------------Mamshit-------------------
+there was not a diff in total entries when there was a heatwave 0.20148386256568568
+there was not diff in total israelis when there was a heatwave 0.05764495341225495
+there was not diff in total tourists when there was a heatwave 0.9875859287293373
+--------------------------------------------
+------------------Me‘arot Stream-------------------
+there was not a diff in total entries when there was a heatwave 0.11255096172536044
+there was not diff in total israelis when there was a heatwave 0.12175481505460023
+there was not diff in total tourists when there was a heatwave 0.20096260489083795
+--------------------------------------------
+------------------Qumran Park-------------------
+there was not a diff in total entries when there was a heatwave 0.26463811098613604
+there was not diff in total israelis when there was a heatwave 0.5375683267497764
+there was not diff in total tourists when there was a heatwave 0.37626159739475334
+--------------------------------------------
+------------------Stalactite Cave-------------------
+there was not a diff in total entries when there was a heatwave 0.09621540069779017
+there was not diff in total israelis when there was a heatwave 0.10556829264556283
+there was not diff in total tourists when there was a heatwave 0.2621045134342944
+--------------------------------------------
+------------------Tel Arad-------------------
+there was not a diff in total entries when there was a heatwave 0.07439140755149194
+there was a diff in total israelis when there was a heatwave 0.0449660506226517
+there was not diff in total tourists when there was a heatwave 0.27036460766708814
+--------------------------------------------
+------------------Tel Beer Sheva-------------------
+there was a diff in total entries when there was a heatwave 0.0004758097051971373
+there was a diff in total israelis when there was a heatwave 3.80141170313648e-05
+there was not diff in total tourists when there was a heatwave 0.24712447185862907
+--------------------------------------------
+------------------Tel Dan-------------------
+there was not a diff in total entries when there was a heatwave 0.6492093888270866
+there was not diff in total israelis when there was a heatwave 0.6734581342452258
+there was not diff in total tourists when there was a heatwave 0.9581511772837029
+--------------------------------------------
+------------------Tel Hazor-------------------
+there was not a diff in total entries when there was a heatwave 0.9306494023277084
+there was not diff in total israelis when there was a heatwave 0.33713873322282895
+there was not diff in total tourists when there was a heatwave 0.9268259327423233
+--------------------------------------------
+------------------Tel Megiddo-------------------
+there was not a diff in total entries when there was a heatwave 0.337177338969496
+there was a diff in total israelis when there was a heatwave 0.025587288072592893
+there was not diff in total tourists when there was a heatwave 0.6561251918989528
+--------------------------------------------
+------------------The Masada-------------------
+there was a diff in total entries when there was a heatwave 0.0018997369472792854
+there was a diff in total israelis when there was a heatwave 0.00435129494924937
+there was a diff in total tourists when there was a heatwave 0.0035591414834120765
+--------------------------------------------
+------------------Tzipori-------------------
+there was not a diff in total entries when there was a heatwave 0.06322164403865445
+there was not diff in total israelis when there was a heatwave 0.08552711903488236
+there was not diff in total tourists when there was a heatwave 0.16957006853024403
+--------------------------------------------
+------------------Yehiam-------------------
+there was not a diff in total entries when there was a heatwave 0.22372900709172955
+there was not diff in total israelis when there was a heatwave 0.2385534839400184
+there was not diff in total tourists when there was a heatwave 0.3919319460238646
+--------------------------------------------
+------------------Amud Stream-------------------
+there was not a diff in total entries when there was a heatwave 0.7761258431326494
+there was not diff in total israelis when there was a heatwave 0.7673484168355169
+there was not diff in total tourists when there was a heatwave 0.3445169598580141
+--------------------------------------------
+------------------Ashkelon National Park-------------------
+there was not a diff in total entries when there was a heatwave 0.61956787109375
+there was not diff in total israelis when there was a heatwave 0.61956787109375
+there was not diff in total tourists when there was a heatwave 0.7035099509912867
+--------------------------------------------
+------------------Baram-------------------
+there was not a diff in total entries when there was a heatwave 0.23112282310146226
+there was not diff in total israelis when there was a heatwave 0.3406847558171308
+there was not diff in total tourists when there was a heatwave 0.550750836590118
+--------------------------------------------
+------------------Dor HaBonim Beach-------------------
+there was not a diff in total entries when there was a heatwave 0.9622598562488378
+there was not diff in total israelis when there was a heatwave 0.9601430490339085
+there was not diff in total tourists when there was a heatwave 0.7774792338852996
+--------------------------------------------
+------------------HaBsor(Eshkol Park)-------------------
+there was not a diff in total entries when there was a heatwave 0.14544219891811744
+there was not diff in total israelis when there was a heatwave 0.14720446865741937
+there was not diff in total tourists when there was a heatwave 0.41582042124951646
+--------------------------------------------
+------------------Meshushim Stream-------------------
+there was not a diff in total entries when there was a heatwave 0.5064683515703259
+there was not diff in total israelis when there was a heatwave 0.5733247914018602
+there was not diff in total tourists when there was a heatwave 0.2768687411562525
+--------------------------------------------
+------------------Palmahim Beach-------------------
+there was not a diff in total entries when there was a heatwave 0.7854825313062231
+there was not diff in total israelis when there was a heatwave 0.7854825313062231
+--------------------------------------------
+------------------Snir Stream-------------------
+there was not a diff in total entries when there was a heatwave 0.9357555649637479
+there was not diff in total israelis when there was a heatwave 0.9415638980592417
+there was not diff in total tourists when there was a heatwave 0.6170414102733974
+--------------------------------------------
+------------------Taninim Stream-------------------
+there was not a diff in total entries when there was a heatwave 0.4869854858039296
+there was not diff in total israelis when there was a heatwave 0.4869854858039296
+there was not diff in total tourists when there was a heatwave 0.8710898258495756
+--------------------------------------------
+------------------Castel National site-------------------
+there was a diff in total entries when there was a heatwave 0.04149724094520853
+there was a diff in total israelis when there was a heatwave 0.03270702783715215
+there was not diff in total tourists when there was a heatwave 0.8256516564325596
+--------------------------------------------
+------------------En Hemed-------------------
+there was not a diff in total entries when there was a heatwave 0.1798621084927322
+there was not diff in total israelis when there was a heatwave 0.2228985348767168
+there was not diff in total tourists when there was a heatwave 0.22393102810337973
+--------------------------------------------
+------------------Yehudiya-------------------
+there was not a diff in total entries when there was a heatwave 0.4107554213041227
+there was not diff in total israelis when there was a heatwave 0.5015789858020834
+there was not diff in total tourists when there was a heatwave 0.3434914456170859
+--------------------------------------------
+------------------The Majrase – Betiha-------------------
+there was not a diff in total entries when there was a heatwave 0.9998957810896127
+there was not diff in total israelis when there was a heatwave 0.9998648754886226
+there was not diff in total tourists when there was a heatwave 0.8948600180466915
+--------------------------------------------
+------------------Horshat Tal-------------------
+there was not a diff in total entries when there was a heatwave 0.876429049954022
+there was not diff in total israelis when there was a heatwave 0.87228286250758
+there was not diff in total tourists when there was a heatwave 0.9138506846264531
+--------------------------------------------
+------------------Nimrod Fortress-------------------
+there was a diff in total entries when there was a heatwave 0.00944638528333622
+there was a diff in total israelis when there was a heatwave 0.021976138460830845
+there was not diff in total tourists when there was a heatwave 0.11489401966065993
+--------------------------------------------
+------------------Akhziv-------------------
+there was not a diff in total entries when there was a heatwave 0.2273214429453554
+there was not diff in total israelis when there was a heatwave 0.23054065582574457
+there was not diff in total tourists when there was a heatwave 0.6191905104440893
+--------------------------------------------
+------------------Gan HaShlosha-------------------
+there was not a diff in total entries when there was a heatwave 0.9997165235870281
+there was not diff in total israelis when there was a heatwave 0.9998069129556947
+there was not diff in total tourists when there was a heatwave 0.3295562694188203
+--------------------------------------------
+------------------Apollonia-------------------
+there was a diff in total entries when there was a heatwave 0.015948663130799325
+there was a diff in total israelis when there was a heatwave 0.015024243864946274
+there was not diff in total tourists when there was a heatwave 0.5691181679137604
+--------------------------------------------
+------------------Arbel-------------------
+there was not a diff in total entries when there was a heatwave 0.4893260984355411
+there was not diff in total israelis when there was a heatwave 0.5716678075898223
+there was not diff in total tourists when there was a heatwave 0.36657545763083726
+--------------------------------------------
+------------------Avdat-------------------
+there was a diff in total entries when there was a heatwave 0.0036237563247548763
+there was not diff in total israelis when there was a heatwave 0.07284382322660196
+there was a diff in total tourists when there was a heatwave 0.022189466913202525
+--------------------------------------------
+------------------Ayun Stream-------------------
+there was a diff in total entries when there was a heatwave 0.0012375766829604141
+there was a diff in total israelis when there was a heatwave 0.001401002025666451
+there was not diff in total tourists when there was a heatwave 0.6064253532386612
+--------------------------------------------
+------------------Bet Alpha-------------------
+there was not a diff in total entries when there was a heatwave 0.18735233846510302
+there was not diff in total israelis when there was a heatwave 0.4964110474351937
+there was not diff in total tourists when there was a heatwave 0.051678541902175114
+--------------------------------------------
+------------------Bet Guvrin-------------------
+there was a diff in total entries when there was a heatwave 0.004609759933083309
+there was a diff in total israelis when there was a heatwave 0.009975128867867358
+there was a diff in total tourists when there was a heatwave 0.012012545802326916
+--------------------------------------------
+------------------Bet Shean-------------------
+there was a diff in total entries when there was a heatwave 0.01813379891656838
+there was a diff in total israelis when there was a heatwave 0.041718130284906355
+there was not diff in total tourists when there was a heatwave 0.10264862611403253
+--------------------------------------------
+------------------Bet Shearim-------------------
+there was not a diff in total entries when there was a heatwave 0.0960591609978349
+there was not diff in total israelis when there was a heatwave 0.05381796502480891
+there was not diff in total tourists when there was a heatwave 0.8813192015300397
+--------------------------------------------
+------------------Caesarea-------------------
+there was not a diff in total entries when there was a heatwave 0.18565774712785593
+there was not diff in total israelis when there was a heatwave 0.2557697761141312
+there was not diff in total tourists when there was a heatwave 0.06491830208232618
+--------------------------------------------
+------------------Eilat Coral Beach-------------------
+there was not a diff in total entries when there was a heatwave 0.9588147112242064
+there was not diff in total israelis when there was a heatwave 0.9802145292181295
+there was not diff in total tourists when there was a heatwave 0.5959490604335235
+--------------------------------------------
+------------------En Afek-------------------
+there was a diff in total entries when there was a heatwave 0.008408814043064143
+there was a diff in total israelis when there was a heatwave 0.008883111669880154
+there was not diff in total tourists when there was a heatwave 0.3468453770385519
+--------------------------------------------
+------------------En Avdat-------------------
+there was a diff in total entries when there was a heatwave 0.04401128394254726
+there was not diff in total israelis when there was a heatwave 0.11799297529035718
+there was not diff in total tourists when there was a heatwave 0.14468441643618984
+--------------------------------------------
+------------------En Gedi-------------------
+there was not a diff in total entries when there was a heatwave 0.20099926905803484
+there was not diff in total israelis when there was a heatwave 0.2908075533388449
+there was not diff in total tourists when there was a heatwave 0.2899146437183377
+--------------------------------------------
+------------------En Prat-------------------
+there was not a diff in total entries when there was a heatwave 0.9650680285907672
+there was not diff in total israelis when there was a heatwave 0.957868826115438
+there was not diff in total tourists when there was a heatwave 0.9057748421239965
+--------------------------------------------
+------------------Enot Tsukim-------------------
+there was not a diff in total entries when there was a heatwave 0.34198328738829936
+there was not diff in total israelis when there was a heatwave 0.35897700282964273
+there was not diff in total tourists when there was a heatwave 0.35164432981809624
+--------------------------------------------
+------------------Gamla-------------------
+there was a diff in total entries when there was a heatwave 3.681393239497562e-06
+there was a diff in total israelis when there was a heatwave 3.801738939036993e-05
+there was a diff in total tourists when there was a heatwave 0.00608447715499153
+--------------------------------------------
+------------------Good Samaritan Museum-------------------
+there was a diff in total entries when there was a heatwave 0.009620988113696124
+there was a diff in total israelis when there was a heatwave 0.007011147504628936
+there was not diff in total tourists when there was a heatwave 0.15940292611140894
+--------------------------------------------
+------------------Hai Ramon-------------------
+there was a diff in total entries when there was a heatwave 0.03543891091639323
+there was not diff in total israelis when there was a heatwave 0.08891421223078178
+there was a diff in total tourists when there was a heatwave 0.02718142922598258
+--------------------------------------------
+------------------Hamat Tiberias-------------------
+there was a diff in total entries when there was a heatwave 0.005856734143894017
+there was a diff in total israelis when there was a heatwave 0.005478829826255371
+there was not diff in total tourists when there was a heatwave 0.3087433071538339
+--------------------------------------------
+------------------Hay-Bar Yotvata-------------------
+there was not a diff in total entries when there was a heatwave 0.10789352998873919
+there was not diff in total israelis when there was a heatwave 0.12112242839267584
+there was not diff in total tourists when there was a heatwave 0.5817867584290582
+--------------------------------------------
+------------------Hermon Stream (Banias)-------------------
+there was not a diff in total entries when there was a heatwave 0.49536737781436735
+there was not diff in total israelis when there was a heatwave 0.18834696600151385
+there was not diff in total tourists when there was a heatwave 0.9983681872180059
+--------------------------------------------
+------------------Herodium Park-------------------
+there was not a diff in total entries when there was a heatwave 0.08529538830779276
+there was a diff in total israelis when there was a heatwave 0.023527130535517308
+there was not diff in total tourists when there was a heatwave 0.41196535111872756
+--------------------------------------------
+------------------Hula-------------------
+there was a diff in total entries when there was a heatwave 5.553549695764429e-05
+there was a diff in total israelis when there was a heatwave 0.00017269174856172388
+there was a diff in total tourists when there was a heatwave 0.04881279591757789
+--------------------------------------------
+------------------Khan Be’erot-------------------
+there was not a diff in total entries when there was a heatwave 0.17412937581633614
+there was not diff in total israelis when there was a heatwave 0.17412937581633614
+--------------------------------------------
+------------------Kokhav HaYarden-------------------
+there was a diff in total entries when there was a heatwave 0.015599568441676254
+there was a diff in total israelis when there was a heatwave 0.005530328273859418
+there was not diff in total tourists when there was a heatwave 0.3556109835730211
+--------------------------------------------
+------------------Korazim-------------------
+there was not a diff in total entries when there was a heatwave 0.38967660997594467
+there was a diff in total israelis when there was a heatwave 5.912655906543793e-05
+there was not diff in total tourists when there was a heatwave 0.9900951763658694
+--------------------------------------------
+------------------Kursi-------------------
+there was not a diff in total entries when there was a heatwave 0.5155468896196036
+there was not diff in total israelis when there was a heatwave 0.05233145879462643
+there was not diff in total tourists when there was a heatwave 0.7319830676805065
+--------------------------------------------
+------------------Maayan Harod-------------------
+there was not a diff in total entries when there was a heatwave 0.9512265663981453
+there was not diff in total israelis when there was a heatwave 0.9705803296989776
+there was a diff in total tourists when there was a heatwave 0.03561371521666283
+--------------------------------------------
+------------------Makhtesh Ramon-------------------
+there was not a diff in total entries when there was a heatwave 0.18445144763411192
+there was not diff in total israelis when there was a heatwave 0.31544548103583214
+there was not diff in total tourists when there was a heatwave 0.10306294275446659
+--------------------------------------------
+------------------Mamshit-------------------
+there was not a diff in total entries when there was a heatwave 0.20148386256568568
+there was not diff in total israelis when there was a heatwave 0.05764495341225495
+there was not diff in total tourists when there was a heatwave 0.9875859287293373
+--------------------------------------------
+------------------Me‘arot Stream-------------------
+there was not a diff in total entries when there was a heatwave 0.11255096172536044
+there was not diff in total israelis when there was a heatwave 0.12175481505460023
+there was not diff in total tourists when there was a heatwave 0.20096260489083795
+--------------------------------------------
+------------------Qumran Park-------------------
+there was not a diff in total entries when there was a heatwave 0.26463811098613604
+there was not diff in total israelis when there was a heatwave 0.5375683267497764
+there was not diff in total tourists when there was a heatwave 0.37626159739475334
+--------------------------------------------
+------------------Stalactite Cave-------------------
+there was not a diff in total entries when there was a heatwave 0.09621540069779017
+there was not diff in total israelis when there was a heatwave 0.10556829264556283
+there was not diff in total tourists when there was a heatwave 0.2621045134342944
+--------------------------------------------
+------------------Tel Arad-------------------
+there was not a diff in total entries when there was a heatwave 0.07439140755149194
+there was a diff in total israelis when there was a heatwave 0.0449660506226517
+there was not diff in total tourists when there was a heatwave 0.27036460766708814
+--------------------------------------------
+------------------Tel Beer Sheva-------------------
+there was a diff in total entries when there was a heatwave 0.0004758097051971373
+there was a diff in total israelis when there was a heatwave 3.80141170313648e-05
+there was not diff in total tourists when there was a heatwave 0.24712447185862907
+--------------------------------------------
+------------------Tel Dan-------------------
+there was not a diff in total entries when there was a heatwave 0.6492093888270866
+there was not diff in total israelis when there was a heatwave 0.6734581342452258
+there was not diff in total tourists when there was a heatwave 0.9581511772837029
+--------------------------------------------
+------------------Tel Hazor-------------------
+there was not a diff in total entries when there was a heatwave 0.9306494023277084
+there was not diff in total israelis when there was a heatwave 0.33713873322282895
+there was not diff in total tourists when there was a heatwave 0.9268259327423233
+--------------------------------------------
+------------------Tel Megiddo-------------------
+there was not a diff in total entries when there was a heatwave 0.337177338969496
+there was a diff in total israelis when there was a heatwave 0.025587288072592893
+there was not diff in total tourists when there was a heatwave 0.6561251918989528
+--------------------------------------------
+------------------The Masada-------------------
+there was a diff in total entries when there was a heatwave 0.0018997369472792854
+there was a diff in total israelis when there was a heatwave 0.00435129494924937
+there was a diff in total tourists when there was a heatwave 0.0035591414834120765
+--------------------------------------------
+------------------Tzipori-------------------
+there was not a diff in total entries when there was a heatwave 0.06322164403865445
+there was not diff in total israelis when there was a heatwave 0.08552711903488236
+there was not diff in total tourists when there was a heatwave 0.16957006853024403
+--------------------------------------------
+------------------Yehiam-------------------
+there was not a diff in total entries when there was a heatwave 0.22372900709172955
+there was not diff in total israelis when there was a heatwave 0.2385534839400184
+there was not diff in total tourists when there was a heatwave 0.3919319460238646
+--------------------------------------------
+------------------Amud Stream-------------------
+there was not a diff in total entries when there was a heatwave 0.7761258431326494
+there was not diff in total israelis when there was a heatwave 0.7673484168355169
+there was not diff in total tourists when there was a heatwave 0.3445169598580141
+--------------------------------------------
+------------------Ashkelon National Park-------------------
+there was not a diff in total entries when there was a heatwave 0.61956787109375
+there was not diff in total israelis when there was a heatwave 0.61956787109375
+there was not diff in total tourists when there was a heatwave 0.7035099509912867
+--------------------------------------------
+------------------Baram-------------------
+there was not a diff in total entries when there was a heatwave 0.23112282310146226
+there was not diff in total israelis when there was a heatwave 0.3406847558171308
+there was not diff in total tourists when there was a heatwave 0.550750836590118
+--------------------------------------------
+------------------Dor HaBonim Beach-------------------
+there was not a diff in total entries when there was a heatwave 0.9622598562488378
+there was not diff in total israelis when there was a heatwave 0.9601430490339085
+there was not diff in total tourists when there was a heatwave 0.7774792338852996
+--------------------------------------------
+------------------HaBsor(Eshkol Park)-------------------
+there was not a diff in total entries when there was a heatwave 0.14544219891811744
+there was not diff in total israelis when there was a heatwave 0.14720446865741937
+there was not diff in total tourists when there was a heatwave 0.41582042124951646
+--------------------------------------------
+------------------Meshushim Stream-------------------
+there was not a diff in total entries when there was a heatwave 0.5064683515703259
+there was not diff in total israelis when there was a heatwave 0.5733247914018602
+there was not diff in total tourists when there was a heatwave 0.2768687411562525
+--------------------------------------------
+------------------Palmahim Beach-------------------
+there was not a diff in total entries when there was a heatwave 0.7854825313062231
+there was not diff in total israelis when there was a heatwave 0.7854825313062231
+--------------------------------------------
+------------------Snir Stream-------------------
+there was not a diff in total entries when there was a heatwave 0.9357555649637479
+there was not diff in total israelis when there was a heatwave 0.9415638980592417
+there was not diff in total tourists when there was a heatwave 0.6170414102733974
+--------------------------------------------
+------------------Taninim Stream-------------------
+there was not a diff in total entries when there was a heatwave 0.4869854858039296
+there was not diff in total israelis when there was a heatwave 0.4869854858039296
+there was not diff in total tourists when there was a heatwave 0.8710898258495756
+--------------------------------------------
+------------------Castel National site-------------------
+there was a diff in total entries when there was a heatwave 0.04149724094520853
+there was a diff in total israelis when there was a heatwave 0.03270702783715215
+there was not diff in total tourists when there was a heatwave 0.8256516564325596
+--------------------------------------------
+------------------En Hemed-------------------
+there was not a diff in total entries when there was a heatwave 0.1798621084927322
+there was not diff in total israelis when there was a heatwave 0.2228985348767168
+there was not diff in total tourists when there was a heatwave 0.22393102810337973
+--------------------------------------------
+------------------Yehudiya-------------------
+there was not a diff in total entries when there was a heatwave 0.4107554213041227
+there was not diff in total israelis when there was a heatwave 0.5015789858020834
+there was not diff in total tourists when there was a heatwave 0.3434914456170859
+--------------------------------------------
+------------------The Majrase – Betiha-------------------
+there was not a diff in total entries when there was a heatwave 0.9998957810896127
+there was not diff in total israelis when there was a heatwave 0.9998648754886226
+there was not diff in total tourists when there was a heatwave 0.8948600180466915
+--------------------------------------------
+------------------Horshat Tal-------------------
+there was not a diff in total entries when there was a heatwave 0.876429049954022
+there was not diff in total israelis when there was a heatwave 0.87228286250758
+there was not diff in total tourists when there was a heatwave 0.9138506846264531
+--------------------------------------------
+------------------Nimrod Fortress-------------------
+there was a diff in total entries when there was a heatwave 0.00944638528333622
+there was a diff in total israelis when there was a heatwave 0.021976138460830845
+there was not diff in total tourists when there was a heatwave 0.11489401966065993
+--------------------------------------------
+------------------Akhziv-------------------
+there was not a diff in total entries when there was a heatwave 0.2273214429453554
+there was not diff in total israelis when there was a heatwave 0.23054065582574457
+there was not diff in total tourists when there was a heatwave 0.6191905104440893
+--------------------------------------------
+------------------Gan HaShlosha-------------------
+there was not a diff in total entries when there was a heatwave 0.9997165235870281
+there was not diff in total israelis when there was a heatwave 0.9998069129556947
+there was not diff in total tourists when there was a heatwave 0.3295562694188203
+--------------------------------------------

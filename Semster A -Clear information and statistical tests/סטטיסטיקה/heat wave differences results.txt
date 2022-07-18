@@ -1,0 +1,105 @@
+total no heat :  [4, 5, 4, 5, 9, 2, 4]
+total heat [13, 33, 36, 10, 7, 3, 59]
+israelis no heat [4, 5, 4, 5, 9, 2, 4]
+israelis heat [13, 33, 36, 10, 7, 3, 59]
+tourists heat [0, 0, 0, 0, 0, 0, 0]
+tourists no heat [0, 0, 0, 0, 0, 0, 0]
+------------------Alexander Stream-Bet Yannai-------------------
+
+there was a diff in total entries when there was a heatwave 0.046875
+there was a diff in total israelis when there was a heatwave 0.046875
+--------------------------------------------
+
+total no heat :  [82, 154, 89, 34, 207, 865, 114]
+total heat [74, 323, 74, 183, 12, 30, 81]
+israelis no heat [72, 131, 79, 32, 200, 861, 104]
+israelis heat [72, 323, 69, 177, 10, 25, 56]
+tourists heat [2, 0, 5, 6, 2, 5, 25]
+tourists no heat [10, 23, 10, 2, 7, 4, 10]
+------------------Apollonia-------------------
+
+there was not a diff in total entries when there was a heatwave 0.46875
+there was not diff in total israelis when there was a heatwave 0.6001794871405538
+there was not diff in total tourists when there was a heatwave 0.46875
+--------------------------------------------
+
+total no heat :  [1380, 1433, 1164, 602, 55, 173, 361]
+total heat [999, 736, 837, 1518, 1220, 1384, 384]
+israelis no heat [1340, 1359, 1038, 479, 25, 91, 304]
+israelis heat [595, 617, 814, 1383, 1095, 1186, 228]
+tourists heat [404, 119, 23, 135, 125, 198, 156]
+tourists no heat [40, 74, 126, 123, 30, 82, 57]
+------------------Arbel-------------------
+
+there was not a diff in total entries when there was a heatwave 0.46875
+there was not diff in total israelis when there was a heatwave 0.578125
+there was not diff in total tourists when there was a heatwave 0.15625
+--------------------------------------------
+
+total no heat :  [268, 141, 236, 63, 140, 188, 99]
+total heat [217, 173, 20, 121, 580, 4, 128]
+israelis no heat [202, 20, 57, 4, 22, 99, 50]
+israelis heat [59, 127, 20, 16, 474, 4, 77]
+tourists heat [158, 46, 0, 105, 106, 0, 51]
+tourists no heat [66, 121, 179, 59, 118, 89, 49]
+------------------Avdat-------------------
+
+there was not a diff in total entries when there was a heatwave 1.0
+there was not diff in total israelis when there was a heatwave 0.9375
+there was not diff in total tourists when there was a heatwave 0.578125
+--------------------------------------------
+
+total no heat :  [653, 901, 811, 678, 777, 134, 62]
+total heat [500, 337, 383, 137, 780, 1321, 2355]
+israelis no heat [640, 901, 809, 678, 777, 134, 60]
+israelis heat [498, 337, 383, 136, 780, 1321, 2355]
+tourists heat [2, 0, 0, 1, 0, 0, 0]
+tourists no heat [13, 0, 2, 0, 0, 0, 2]
+------------------Ayun Stream-------------------
+
+there was not a diff in total entries when there was a heatwave 1.0
+there was not diff in total israelis when there was a heatwave 1.0
+there was not diff in total tourists when there was a heatwave 0.14077277337135014
+--------------------------------------------
+
+total no heat :  [21, 51, 106, 40, 89, 218, 226]
+total heat [97, 31, 62, 6, 25, 79, 266]
+israelis no heat [12, 23, 47, 38, 9, 65, 160]
+israelis heat [51, 17, 10, 3, 18, 60, 245]
+tourists heat [46, 14, 52, 3, 7, 19, 21]
+tourists no heat [9, 28, 59, 2, 80, 153, 66]
+------------------Bet Alpha-------------------
+
+there was not a diff in total entries when there was a heatwave 0.46875
+there was not diff in total israelis when there was a heatwave 0.8125
+there was not diff in total tourists when there was a heatwave 0.15625
+--------------------------------------------
+
+total no heat :  [971, 982, 868, 1005, 788, 1574, 1629]
+total heat [258, 696, 1099, 894, 1235, 484, 590]
+israelis no heat [932, 912, 783, 978, 746, 1526, 1565]
+israelis heat [185, 484, 1068, 745, 1198, 433, 564]
+tourists heat [73, 212, 31, 149, 37, 51, 26]
+tourists no heat [39, 70, 85, 27, 42, 48, 64]
+------------------Bet Guvrin-------------------
+
+there was not a diff in total entries when there was a heatwave 0.21875
+there was not diff in total israelis when there was a heatwave 0.21875
+there was not diff in total tourists when there was a heatwave 0.6875
+--------------------------------------------
+
+total no heat :  [542, 485, 545, 494, 493, 334, 442]
+total heat [588, 563, 888, 706, 458, 877, 640]
+israelis no heat [71, 222, 272, 303, 244, 172, 203]
+israelis heat [209, 53, 477, 401, 142, 518, 135]
+tourists heat [379, 510, 411, 305, 316, 359, 505]
+tourists no heat [471, 263, 273, 191, 249, 162, 239]
+------------------Bet Shean-------------------
+
+there was a diff in total entries when there was a heatwave 0.03125
+there was not diff in total israelis when there was a heatwave 0.46875
+there was a diff in total tourists when there was a heatwave 0.046875
+--------------------------------------------
+
+total no heat :  [129, 119, 658, 254, 174, 34, 650]
+total heat [42, 133, 192, 51, 364, 977, 664]
