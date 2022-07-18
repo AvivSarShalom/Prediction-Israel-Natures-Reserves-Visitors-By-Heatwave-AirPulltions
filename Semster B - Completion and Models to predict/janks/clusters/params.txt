@@ -1,0 +1,1 @@
+model  : target: israelis , is_weekend = 0 : {'C': 10000, 'gamma': 0.2, 'kernel': 'rbf'} X not scaled!!
